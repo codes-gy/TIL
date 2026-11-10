@@ -8,7 +8,7 @@
 
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
-| 운영체제 | [operating-system](operating-system/) | 1 |
+| 운영체제 | [operating-system](operating-system/) | 2 |
 | 네트워크 | network/ | 0 |
 | 데이터베이스 | database/ | 0 |
 
@@ -17,6 +17,7 @@
 | 날짜 | 분야 | 주제 | 문서 |
 | --- | --- | --- | --- |
 | 2026-11-09 | OS | 프로세스와 스레드의 개념과 메모리 구조 | [보기](operating-system/2026-11-09-process-thread-memory.md) |
+| 2026-11-10 | OS | CPU 스케줄링과 프로세스 상태 전이 | [보기](operating-system/2026-11-10-cpu-scheduling-process-states.md) |
 
 ## 작성 규칙
 
