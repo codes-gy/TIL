@@ -8,7 +8,7 @@
 
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
-| 운영체제 | [operating-system](operating-system/) | 4 |
+| 운영체제 | [operating-system](operating-system/) | 5 |
 | 네트워크 | network/ | 0 |
 | 데이터베이스 | database/ | 0 |
 
@@ -20,6 +20,7 @@
 | 2026-11-10 | OS | CPU 스케줄링과 프로세스 상태 전이 | [보기](operating-system/2026-11-10-cpu-scheduling-process-states.md) |
 | 2026-11-11 | OS | 컨텍스트 스위칭 메커니즘과 상태 저장/복원 | [보기](operating-system/2026-11-11-context-switching-state-save-restore.md) |
 | 2026-11-12 | OS | 동기화와 임계 영역 (상호 배제와 락 메커니즘) | [보기](operating-system/2026-11-12-synchronization-critical-section.md) |
+| 2026-11-13 | OS | 교착 상태(Deadlock)의 원인과 4대 조건 | [보기](operating-system/2026-11-13-deadlock-four-conditions.md) |
 
 ## 작성 규칙
 
