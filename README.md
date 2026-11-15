@@ -8,7 +8,7 @@
 
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
-| 운영체제 | [operating-system](operating-system/) | 6 |
+| 운영체제 | [operating-system](operating-system/) | 7 |
 | 네트워크 | network/ | 0 |
 | 데이터베이스 | database/ | 0 |
 
@@ -22,6 +22,7 @@
 | 2026-11-12 | OS | 동기화와 임계 영역 (상호 배제와 락 메커니즘) | [보기](operating-system/2026-11-12-synchronization-critical-section.md) |
 | 2026-11-13 | OS | 교착 상태(Deadlock)의 원인과 4대 조건 | [보기](operating-system/2026-11-13-deadlock-four-conditions.md) |
 | 2026-11-14 | OS | 가상 메모리와 페이징(Paging)의 주소 변환과 요구 페이징 | [보기](operating-system/2026-11-14-virtual-memory-paging.md) |
+| 2026-11-15 | OS | I/O 모델과 I/O 멀티플렉싱 (select, poll, epoll) | [보기](operating-system/2026-11-15-io-multiplexing-epoll.md) |
 
 ## 작성 규칙
 
