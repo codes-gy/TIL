@@ -9,7 +9,7 @@
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
-| 네트워크 | network/ | 0 |
+| 네트워크 | [network](network/) | 1 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -24,6 +24,7 @@
 | 2026-11-14 | OS | 가상 메모리와 페이징(Paging)의 주소 변환과 요구 페이징 | [보기](operating-system/2026-11-14-virtual-memory-paging.md) |
 | 2026-11-15 | OS | I/O 모델과 I/O 멀티플렉싱 (select, poll, epoll) | [보기](operating-system/2026-11-15-io-multiplexing-epoll.md) |
 | 2026-11-16 | OS | 메모리 계층 구조와 CPU 캐시 지역성 | [보기](operating-system/2026-11-16-memory-hierarchy-cache-locality.md) |
+| 2026-11-17 | 네트워크 | TCP vs UDP와 전송 계층 소켓 버퍼 구조 | [보기](network/2026-11-17-tcp-vs-udp-socket-buffer.md) |
 
 ## 작성 규칙
 
