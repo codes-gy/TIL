@@ -9,7 +9,7 @@
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
-| 네트워크 | [network](network/) | 2 |
+| 네트워크 | [network](network/) | 3 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -26,6 +26,7 @@
 | 2026-11-16 | OS | 메모리 계층 구조와 CPU 캐시 지역성 | [보기](operating-system/2026-11-16-memory-hierarchy-cache-locality.md) |
 | 2026-11-17 | 네트워크 | TCP vs UDP와 전송 계층 소켓 버퍼 구조 | [보기](network/2026-11-17-tcp-vs-udp-socket-buffer.md) |
 | 2026-11-18 | 네트워크 | TCP 3-Way/4-Way 핸드셰이크와 TIME_WAIT | [보기](network/2026-11-18-tcp-handshake-time-wait.md) |
+| 2026-11-19 | 네트워크 | HTTP/1.1 · HTTP/2 · HTTP/3(QUIC) 진화와 전송 구조 | [보기](network/2026-11-19-http-versions-quic.md) |
 
 ## 작성 규칙
 
