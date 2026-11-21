@@ -9,7 +9,7 @@
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
-| 네트워크 | [network](network/) | 4 |
+| 네트워크 | [network](network/) | 5 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -28,6 +28,7 @@
 | 2026-11-18 | 네트워크 | TCP 3-Way/4-Way 핸드셰이크와 TIME_WAIT | [보기](network/2026-11-18-tcp-handshake-time-wait.md) |
 | 2026-11-19 | 네트워크 | HTTP/1.1 · HTTP/2 · HTTP/3(QUIC) 진화와 전송 구조 | [보기](network/2026-11-19-http-versions-quic.md) |
 | 2026-11-20 | 네트워크 | DNS 동작 원리와 캐싱 · TTL | [보기](network/2026-11-20-dns-resolution-caching-ttl.md) |
+| 2026-11-21 | 네트워크 | 로드 밸런싱(L4 vs L7)과 커넥션 풀링 | [보기](network/2026-11-21-load-balancing-connection-pooling.md) |
 
 ## 작성 규칙
 
