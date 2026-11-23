@@ -9,7 +9,7 @@
 | 카테고리 | 디렉터리 | 문서 수 |
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
-| 네트워크 | [network](network/) | 6 |
+| 네트워크 | [network](network/) | 7 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -30,6 +30,7 @@
 | 2026-11-20 | 네트워크 | DNS 동작 원리와 캐싱 · TTL | [보기](network/2026-11-20-dns-resolution-caching-ttl.md) |
 | 2026-11-21 | 네트워크 | 로드 밸런싱(L4 vs L7)과 커넥션 풀링 | [보기](network/2026-11-21-load-balancing-connection-pooling.md) |
 | 2026-11-22 | 네트워크 | HTTPS와 TLS 1.3 핸드셰이크 | [보기](network/2026-11-22-https-tls-1-3-handshake.md) |
+| 2026-11-23 | 네트워크 | CORS와 Preflight 요청 원리 | [보기](network/2026-11-23-cors-preflight.md) |
 
 ## 작성 규칙
 
