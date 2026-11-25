@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
 | 네트워크 | [network](network/) | 8 |
+| 시스템 설계 | [system-design](system-design/) | 1 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -32,6 +33,7 @@
 | 2026-11-22 | 네트워크 | HTTPS와 TLS 1.3 핸드셰이크 | [보기](network/2026-11-22-https-tls-1-3-handshake.md) |
 | 2026-11-23 | 네트워크 | CORS와 Preflight 요청 원리 | [보기](network/2026-11-23-cors-preflight.md) |
 | 2026-11-24 | 네트워크 | REST API 설계와 멱등성 · HTTP 상태 코드 | [보기](network/2026-11-24-rest-api-idempotency-status-codes.md) |
+| 2026-11-25 | 시스템 설계 | 확장성 기초와 트래픽 추정 (Scale-Up/Out · QPS 산정) | [보기](system-design/2026-11-25-scalability-traffic-estimation.md) |
 
 ## 작성 규칙
 
