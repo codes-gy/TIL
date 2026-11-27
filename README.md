@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
 | 네트워크 | [network](network/) | 8 |
-| 시스템 설계 | [system-design](system-design/) | 2 |
+| 시스템 설계 | [system-design](system-design/) | 3 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -35,6 +35,7 @@
 | 2026-11-24 | 네트워크 | REST API 설계와 멱등성 · HTTP 상태 코드 | [보기](network/2026-11-24-rest-api-idempotency-status-codes.md) |
 | 2026-11-25 | 시스템 설계 | 확장성 기초와 트래픽 추정 (Scale-Up/Out · QPS 산정) | [보기](system-design/2026-11-25-scalability-traffic-estimation.md) |
 | 2026-11-26 | 시스템 설계 | 캐시 아키텍처와 일관성 전략 (Cache-Aside · Stampede 방어) | [보기](system-design/2026-11-26-cache-architecture-consistency.md) |
+| 2026-11-27 | 시스템 설계 | 데이터베이스 확장과 샤딩 (Read Replica · Shard Key · Consistent Hashing) | [보기](system-design/2026-11-27-database-scaling-sharding.md) |
 
 ## 작성 규칙
 
