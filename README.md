@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 운영체제 | [operating-system](operating-system/) | 8 |
 | 네트워크 | [network](network/) | 8 |
-| 시스템 설계 | [system-design](system-design/) | 3 |
+| 시스템 설계 | [system-design](system-design/) | 4 |
 | 데이터베이스 | database/ | 0 |
 
 ## 문서 목록
@@ -36,6 +36,7 @@
 | 2026-11-25 | 시스템 설계 | 확장성 기초와 트래픽 추정 (Scale-Up/Out · QPS 산정) | [보기](system-design/2026-11-25-scalability-traffic-estimation.md) |
 | 2026-11-26 | 시스템 설계 | 캐시 아키텍처와 일관성 전략 (Cache-Aside · Stampede 방어) | [보기](system-design/2026-11-26-cache-architecture-consistency.md) |
 | 2026-11-27 | 시스템 설계 | 데이터베이스 확장과 샤딩 (Read Replica · Shard Key · Consistent Hashing) | [보기](system-design/2026-11-27-database-scaling-sharding.md) |
+| 2026-11-28 | 시스템 설계 | 메시지 큐와 비동기 이벤트 파이프라인 (Backpressure · 멱등 컨슈머) | [보기](system-design/2026-11-28-message-queue-async-pipeline.md) |
 
 ## 작성 규칙
 
